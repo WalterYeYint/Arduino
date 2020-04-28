@@ -1,0 +1,15 @@
+# -----------------------------------------
+# Syntax colouring for RsbLib demo library
+# -----------------------------------------
+
+# Datatypes (such as objects)
+LedFirst KEYWORD1
+
+#Methods / functions
+LightUp	KEYWORD2
+LightDown KEYWORD2
+FledDelay KEYWORD2
+
+# Constants
+
+
